@@ -1,0 +1,26 @@
+/svr
+/in:obj\Debug\GrainCollection1.dll
+/key:
+/d:DEBUG;TRACE
+/rns:GrainCollection1
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\MyGrainInterfaces1.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.Core.1.0.9\lib\net45\Orleans.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.DataSetExtensions.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.Linq.dll
+/fsharp:C:\Program Files (x86)\MSBuild\..\Microsoft SDKs\F#\3.1\Framework\v4.0\fsc.exe
+/cwd:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\GrainCollection1\
+/config:Debug
+/OptionExplicit:
+/OptionCompare:
+/OptionStrict:
+/OptionInfer:
+/MyType:
+/src:Grain1.cs
+/src:Properties\AssemblyInfo.cs
+/src:Properties\orleans.codegen.cs

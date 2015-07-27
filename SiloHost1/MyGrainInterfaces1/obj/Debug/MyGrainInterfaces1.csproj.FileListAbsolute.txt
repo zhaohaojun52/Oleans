@@ -1,0 +1,7 @@
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\obj\Debug\MyGrainInterfaces1.dll
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\MyGrainInterfaces1.dll
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\MyGrainInterfaces1.pdb
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\Orleans.dll
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\Orleans.xml
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\obj\Debug\MyGrainInterfaces1.pdb
+G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\obj\Debug\MyGrainInterfaces1.csprojResolveAssemblyReference.cache

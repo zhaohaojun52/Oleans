@@ -1,0 +1,41 @@
+/nomerge
+/in:obj\Debug\SiloHost1.exe
+/key:
+/d:DEBUG;TRACE
+/rns:SiloHost1
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\GrainCollection1\bin\Debug\GrainCollection1.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Data.Edm.5.6.0\lib\net40\Microsoft.Data.Edm.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Data.OData.5.6.0\lib\net40\Microsoft.Data.OData.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Data.Services.Client.5.6.0\lib\net40\Microsoft.Data.Services.Client.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.WindowsAzure.ConfigurationManager.2.0.0.0\lib\net40\Microsoft.WindowsAzure.Configuration.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Unofficial.Microsoft.WindowsAzure.ServiceRuntime.2.4.0.0\lib\net40\Microsoft.WindowsAzure.ServiceRuntime.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\WindowsAzure.Storage.4.2.0\lib\net40\Microsoft.WindowsAzure.Storage.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\MyGrainInterfaces1\bin\Debug\MyGrainInterfaces1.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Newtonsoft.Json.5.0.8\lib\net45\Newtonsoft.Json.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.Core.1.0.9\lib\net45\Orleans.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.OrleansAzureUtils.1.0.9\lib\net45\OrleansAzureUtils.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.CounterControl.1.0.9\lib\net45\OrleansCounterControl.exe
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.OrleansHost.1.0.9\lib\net45\OrleansHost.exe
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.OrleansProviders.1.0.9\lib\net45\OrleansProviders.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\Microsoft.Orleans.OrleansRuntime.1.0.9\lib\net45\OrleansRuntime.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.DataSetExtensions.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll
+/r:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\packages\System.Spatial.5.6.0\lib\net40\System.Spatial.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.Linq.dll
+/fsharp:C:\Program Files (x86)\MSBuild\..\Microsoft SDKs\F#\3.1\Framework\v4.0\fsc.exe
+/cwd:G:\赵浩钧\实验室\研二\Orleans\项目文件\SiloHost1\SiloHost1\
+/config:Debug
+/OptionExplicit:
+/OptionCompare:
+/OptionStrict:
+/OptionInfer:
+/MyType:
+/src:Program.cs
+/src:OrleansHostWrapper.cs
+/src:Properties\AssemblyInfo.cs
+/src:Properties\orleans.codegen.cs
