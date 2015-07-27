@@ -57,7 +57,7 @@ namespace SiloHost1
                 Console.WriteLine("\n\n{0}\n\n", hello.SayHello(i).Result);
             }
 
-            Console.WriteLine("运行时间：" + watch.Elapsed);
+            Console.WriteLine("运行时间1：" + watch.Elapsed);
 
             // TODO: once the previous call returns, the silo is up and running.
             //       This is the place your custom logic, for example calling client logic
